@@ -1,4 +1,10 @@
-### 03 Cell Structure
+### Lecture 2: Plant Cell and Tissues
+>Reading:
+[] 1. Mauseth pages 51-57 (stop at proper2es of membranes),
+[] 2. then 58-66 (stop at ribosomes)
+[] 3. then 107-115 (stop at External Organization of Stems),
+[] 4. then 120-136
+[] 5. Plant Tissues Handout in the Dropbox folder
 
 ##### Levels of Organization in Life
 - Atoms
@@ -14,7 +20,7 @@ Plant Tissues
 + Shoot apical meristem
 
 ##### Three Tissue Systems
-- Surfrace (Dermal)
+- Surface (Dermal)
 - Vascular Tissues
 - Ground Tissues
 
@@ -22,7 +28,7 @@ Plant Tissues
 + A Cell is the smallest unit of organism that exhibits all the characteristics of life.
 + All organisms are composed of cells.
 + Cells are the structural and functional component of living things
-+ All cells araise from preexisting cells
++ All cells arise from preexisting cells
 
 #### Cells
 Two types of cells
@@ -53,8 +59,8 @@ A selective premeable barries that regulares the movement of substance in and ou
 
 ##### Vacuole
 + Membrane enclosed fluid filled space
-+ Can occupy a large vaolume of the cell (up to 90% in a mature cell)
++ Can occupy a large volume of the cell (up to 90% in a mature cell)
 + Functions:
-  1. Helps maintan cell pressure
+  1. Helps maintain cell pressure
   2. Storage and breakdown of celluar waste products
   3. Location of water soluble dyes called anthocyanins (purple and red color)
