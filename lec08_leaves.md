@@ -17,12 +17,28 @@
 + Regulate Water loss - transpiration
    - Transpiration - loss of water (flowing out of a stomata hole)
 + Many Specilized Functions
-  + Storage
+  + Storage - Succulent leaves store water
   + Protection - Can be pointy)
   + Attraction - Colorfull, attracts pollinators)
   + Nutrition - From the environment (from bodies)
   + Propagation - Some plants will make new plantets in the margin of their leaves
   + Climbing - Tendrils can be leaves or stems dependings where they come from. They get shorter and shorter for grip.
+
+
+Succulent leaves store water
+![succulent](/assets/succulent.jpg)
+
+Tenderils aid climbing
+![tendrils](/assets/tendrils.jpg)
+
+Insects trapping leaves
+![insects_trapping_leaves](/assets/insects_trapping_leaves.jpg)
+
+Bracts are leaves associated with flowers. They help attract pollinators
+![bract](/assets/bract.jpg)
+
+Spines provide protection
+![spines](/assets/spines.jpg)
 
 #### Internal Leaf Anatomy
 ![leaf_anatomy](/assets/leaf_anatomy.png)
