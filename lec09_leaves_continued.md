@@ -1,4 +1,5 @@
 ### Lecture 9: Leaves Continued
+
 > Reading
 1\. Leaves chapter in Mauseth pages 143-154
 2\. Trees Amount Us: Introduction
@@ -15,11 +16,3 @@
 
 ![Black Sage Flower and Leaves](/assets/black_sage_flower_leaves.PNG)
 
-#### Mexican Fan Palm
-+ Scientific Name: _Washingtonia robusta_
-
-#### Southern Magnolia
-+ Scientific Name: _Magnolia grandiflora_
-
-#### Moreton Bag Fig
-+ Scientific Name: _Ficus macrophylla_

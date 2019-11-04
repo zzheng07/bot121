@@ -1,9 +1,8 @@
 ### Lecture 6: Secondary Growth and Plant Names
 
 > Reading:
-[] 1. 487-500
-[] 2. Plant Names Article (Online)
-
+1\. 487-500
+2\. Plant Names Article (Online)
 
 #### Heartwood and Sapwood
 Heartwood and sapwood have different functions
